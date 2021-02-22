@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 [![gkswns3708's github stats](https://github-readme-stats.vercel.app/api?username=gkswns3708)](https://github.com/gkswns3708/github-readme-stats)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkswn3708)](https://solved.ac/profile/gkswns3708)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={gkswns3708})](https://solved.ac/gkswns3708)

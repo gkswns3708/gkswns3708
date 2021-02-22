@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 [![gkswns3708's github stats](https://github-readme-stats.vercel.app/api?username=gkswns3708)](https://github.com/gkswns3708/github-readme-stats)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={gkswns3708})](https://solved.ac/gkswns3708)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=https://www.acmicpc.net/user/gkswns3708)](https://solved.ac/gkswns3708)

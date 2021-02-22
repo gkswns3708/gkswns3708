@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 
 [![gkswns3708's github stats](https://github-readme-stats.vercel.app/api?username=gkswns3708)](https://github.com/gkswns3708/github-readme-stats)
 
+poetry install             # 의존성 설치
+poetry shell               # 가상환경에 진입
+python manage.py runserver # 서버 실행
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkswn3708)](https://solved.ac/profile/gkswns3708)

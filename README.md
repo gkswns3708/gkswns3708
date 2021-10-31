@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## 👋 About Me
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hi,%20I'm%20HanJun%20Choi%20🤗&fontSize=36&animation=fadeIn&fontAlignY=36)

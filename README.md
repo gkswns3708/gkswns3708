@@ -31,7 +31,7 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkswns3708)](https://solved.ac/gkswns3708)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkswns3708)](https://github.com/gkswns3708)
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle=gkswns3708&theme=cold)
+
 
 
 <!--

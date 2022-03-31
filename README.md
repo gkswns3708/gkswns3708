@@ -14,19 +14,6 @@
 ## 🗨 Blog
 
 - [AI Enginner H.J / Naver Blog](https://blog.naver.com/gkswns3708)
-
-## 📃 BOJ / Solved.ac
-
-- BOJ: [gkswns3708](https://www.acmicpc.net/user/gkswns3708)
-- Solved.ac: [gkswns3708](https://solved.ac/profile/gkswns3708)
-
-## 📁 Study Note
-
-### Algorithm Study
-
-- [BOJ](https://github.com/gkswns3708/BOJ_CPP) : BOJ solution code with CPP
-- [BOJ](https://github.com/gkswns3708/BOJ_Python) : BOJ solution code with PYTHON
-
 ## 🏆 Cards
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkswns3708)](https://solved.ac/gkswns3708)

@@ -17,3 +17,9 @@
 ## 🏆 Cards
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkswns3708)](https://solved.ac/gkswns3708)
+
+## Awards 🥇🥈🥉
+| Rank | Task | Topic | Sponsor | Date |
+|:------:|-------|------|---------|------|
+|🥉 45 / 344 , (14%)  |  Multi-Modal(Image + Tablur)   | 농업 환경 변화에 따른 작물 병해 진단 AI 경진대회 | LG AI Research | 2022.02.04 |
+|🥉 28 / 139 , (21%)  | Image(Depth map) Generation | 2022 Samsung AI Challenge (3D Metrology) | 삼성전자  | 2022.09.16 |

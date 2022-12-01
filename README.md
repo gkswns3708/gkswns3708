@@ -18,6 +18,11 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkswns3708)](https://solved.ac/gkswns3708)
 
+[Dacon Profile](https://dacon.io/myprofile/423245/home)
+| Rank | Code Share | Talk |
+|:------:|:------:|:------:|
+| 🥉 | 🥉 | 🥇 |
+
 ## Awards 🥇🥈🥉
 | Rank | Task | Topic | Sponsor | Date |
 |:------:|-------|------|---------|------|

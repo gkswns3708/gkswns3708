@@ -1,5 +1,7 @@
 ## 👋 About Me
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgkswns3708&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hi,%20I'm%20HanJun%20Choi%20🤗&fontSize=36&animation=fadeIn&fontAlignY=36)
 - Kyungsung University, School of Computer Enginnering
 - Algorithm Learner / Machine Learning Engineer

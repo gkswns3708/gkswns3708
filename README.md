@@ -16,6 +16,7 @@
 ## 🗨 Blog
 
 - [AI Enginner H.J / Naver Blog](https://blog.naver.com/gkswns3708)
+- [Dobby-HJ / Tistory](https://dobby-hj.tistory.com/)
 ## 🏆 Cards
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkswns3708)](https://solved.ac/gkswns3708)

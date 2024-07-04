@@ -4,6 +4,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hi,%20I'm%20HanJun%20Choi%20🤗&fontSize=36&animation=fadeIn&fontAlignY=36)
 - Kyungsung University, School of Computer Enginnering
+- GIST (Gwangju Institute of Science and Technology), Master's degree in Artificial Intelligence, [Aimed Lab](https://www.aimed-lab.com/members)
 - Algorithm Learner / Machine Learning Engineer
 - Boostcamper of [Boostcamp AI Tech 2nd](https://boostcamp.connect.or.kr/about.html) by NAVER Connect Foundation
 
